@@ -1,0 +1,2 @@
+# Wuphf
+Recreated Ryan from "The Office" Wuphf.com - Wuphf was designed to be a revolutionary communication tool. The idea was initially pitched by Kelly Kapoor, though Ryan had taken over the project without Kelly's consent. When the site was first released, it seemed that only Kelly and Ryan were using it. Instead of getting a text or call, or message,the service purportedly sends a message to friends on all their channels, Facebook, chat, SMS and Twitter. It even prints out a 'wuphf' (pronounced "woof," the sitcom's version of a 'tweet') on the nearest printer.
