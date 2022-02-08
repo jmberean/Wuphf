@@ -104,7 +104,7 @@ public class Wuphf {
 	public static void leverageEmailReq(String recipient,String msg) throws AddressException, MessagingException {
 		String host = "smtp.gmail.com";
 		final String user = "WuphfCommunication";// change accordingly
-		final String password = "Z8`$j7N!L9g_`YeG";// change accordingly
+		final String password = "*************";// change accordingly
 
 		String recipientLocal = recipient;// change accordingly
 
